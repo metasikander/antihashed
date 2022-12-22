@@ -2,7 +2,7 @@
 title: "Episode 3"
 date: 2022-12-22T14:30:32+01:00
 podcast:
-    mp3: audio/episode_003.m4a
+    mp3: https://antihashed.us-east-1.linodeobjects.com/episode_003.m4a
 
 ---
 In which Constant tells fiatjaf how to manage Nostr funds.
