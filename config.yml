@@ -7,12 +7,8 @@ params:
   alpine:                   # Add AlpineJS, default false.
   cookieConsent: false       # Show cookie consent form, default false.
   contact: "email@antihashed.xyz"
-  copyright: |
-              "This site is licensed under a 
-              (https://creativecommons.org/licenses/by-sa/4.0/)."
-              [Creative Commons Attribution-ShareAlike 4.0 International License]
   dateformat: ""            # Set the date format, default to "2 January, 2006"
-  description: "a very negative podcast"           # Set site description, used in meta tags and JSON-LD
+  description: "Two grumpy men talk about bitcoin and starcraft"           # Set site description, used in meta tags and JSON-LD
   favicon: ""               # Relative path to favicon in json feed, no leading slash.
   feedlinks: true           # Show feed links in the footer.
   footer: ""
