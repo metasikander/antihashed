@@ -6,4 +6,4 @@ podcast:
     duration: 57:59
 
 ---
-In which Constant tells fiatjaf how to manage Nostr funds.
+In which Constant tells fiatjaf how to manage Nostr funds
