@@ -10,8 +10,8 @@ params:
   dateformat: ""            # Set the date format, default to "2 January, 2006"
   description: "Two grumpy men talk about bitcoin and starcraft"           # Set site description, used in meta tags and JSON-LD
   favicon: ""               # Relative path to favicon in json feed, no leading slash.
-  feedlinks: true           # Show feed links in the footer.
-  footer: ""
+  feedlinks: false           # Show feed links in the footer.
+  footer: "RSS Feed address: https://antihashed.xyz/podcast/index.xml"
   icon: ""                  # Relative path to icon in json feed and JSON-LD, no leading slash.
   image: ""                 # Relative path to site image in JSON-LD, no leading slash.
   imageMaxWidth: ""         # Max width for images added via figure shortcode.
