@@ -43,7 +43,7 @@ params:
   podcast:
     title: "Antihashed"                 # * Feed title, defaults to site title (iTunes).
     description: "Two grumpy men talk about bitcoin and starcraft"           # * Feed description/summary, defaults to  site description (iTunes).
-    image:  logo.jpg                # * Feed image, place inside assets directory (iTunes).
+    image:  "logo.jpg"                # * Feed image, place inside assets directory (iTunes).
     category:
       name: "Technology"                # * Feed category (iTunes).
       subcategories: []     # Feed sub category (iTunes).
