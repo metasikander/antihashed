@@ -1,6 +1,6 @@
 ---
 title: "Episode 19"
-date: 2023-07-17T21:35:00+01:00
+date: 2023-07-17T20:35:00+01:00
 podcast:
     mp3: episode_019.m4a
     duration: 1:50:31
