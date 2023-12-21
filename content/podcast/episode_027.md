@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Episode 27"
 date: 2023-12-21T14:50:00+01:00
 podcast:
